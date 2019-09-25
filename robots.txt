@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feezeemooh.cdds.io/sitemap.xml
